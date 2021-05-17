@@ -13,7 +13,7 @@ function gestionarFicheroXML(xmlDoc){
 
 
 
-function CargarFichero(loadDocA)
+function CargarFichero()
 {
 	loadDocA("conversacion.xml","xml") ;
 }
