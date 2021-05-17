@@ -1,11 +1,11 @@
 <conversacion>
-	<mio>Hola</mio>
-	<otro>Dime</otro>
-	<mio>Compra pan</mio>
-	<otro>no llevo dinero</otro>
-	<mio>Entonces ven coge el dinero y vas a por el pan</mio>
-	<otro>Que pereza</otro>
-	<mio>Bueno es lo que hay</mio>
-	<otro>Pues ve tu</otro>
-	<mio>NO</mio>
+	<msg>Hola</msg>
+	<msg>Dime</msg>
+	<msg>Compra pan</msg>
+	<msg>no llevo dinero</msg>
+	<msg>Entonces ven coge el dinero y vas a por el pan</msg>
+	<msg>Que pereza</msg>
+	<msg>Bueno es lo que hay</msg>
+	<msg>Pues ve tu</msg>
+	<msg>NO</msg>
 </conversacion>
