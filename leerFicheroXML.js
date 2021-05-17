@@ -6,4 +6,4 @@ function gestionarFicheroXML(xmlDoc){
 	
 }
 
- http.addEventListener('click', (loadDocA("libros.xml","xml")) ;
+loadDocA("libros.xml","xml") ;
