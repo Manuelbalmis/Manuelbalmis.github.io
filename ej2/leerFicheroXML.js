@@ -12,7 +12,7 @@ function gestionarFicheroXML(xmlDoc){
 
 
 
-setInterval(CargarFichero,3000)
+setInterval(CargarFichero,3000);
 function CargatFichero()
 {
 	loadDocA("conversacion.xml","xml") ;
