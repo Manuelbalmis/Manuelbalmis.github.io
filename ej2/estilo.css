@@ -1,7 +1,9 @@
 .seleccion{
-    background-color: yellow ;
+    background-color: green ;
+    border: 2px solid black;
   }
   
   .seleccion2{
-    border: 5px solid red;;
+    border: 2px solid black;
+    background-color: yellow ;
   }
