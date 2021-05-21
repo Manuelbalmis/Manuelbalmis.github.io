@@ -1,10 +1,41 @@
 <peliculas>
   
-  <pelicula>mision imposible</pelicula>
-  <pelicula>mision imposible 2</pelicula>
-  <pelicula>La momia</pelicula>
-  <pelicula>eragon</pelicula>
-  <pelicula>Madagascar</pelicula>
-  <pelicula>Hercules</pelicula>
+  <pelicula>
+    
+      <nombre>mision imposible</nombre>
+    <director>Pepe</director>
+    
+  </pelicula>
+
+  <pelicula>
+    
+    <nombre>mision imposible 2</nombre>
+    <director>Juan</director>
+  </pelicula>
+  
+  <pelicula>
+    
+   <nombre> La momia</pelicula>
+    <director>Paco</director>
+    
+  <pelicula>
+    
+    <nombre>eragon</nombre>
+    <director>Felipe</director>
+    
+  </pelicula>
+  <pelicula>
+    
+    <nombre>Madagascar</nombre>
+    <director>Jorge</director>
+    
+  </pelicula>
+  <pelicula>
+    
+    <nombre>Hercules</nombre>
+    <director>Ernesto</director>
+    
+  </pelicula>
   
 </peliculas>
+  
