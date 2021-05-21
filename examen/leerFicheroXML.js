@@ -3,9 +3,9 @@ function gestionarFicheroXML(xmlDoc){
 	let cartel = xmlDoc.querySelectorAll("pelicula")
 	for(let i=0; i<cartel.length; i++)
 		if(i%2==0)
-		capaVacia.innerHTML = capaVacia.innerHTML + "<p align='center' class=seleccion>" + cartel[i].textContent + "</p>"
+		capaVacia.innerHTML = capaVacia.innerHTML + "<p align='left' class=seleccion>" + cartel[i].textContent + "</p>"
 				else
-		capaVacia.innerHTML = capaVacia.innerHTML + "<p align='center' class=seleccion>" + cartel[i].textContent + "</p>"
+		capaVacia.innerHTML = capaVacia.innerHTML + "<p align='left' class=seleccion>" + cartel[i].textContent + "</p>"
 
 				
 		
