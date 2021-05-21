@@ -8,7 +8,7 @@ function CargarFichero()
 function Parar(){
 	clearInterval(intervalo)
 }
-
+Parar()
 
 
 function gestionarFicheroXML(xmlDoc){
