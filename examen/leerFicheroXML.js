@@ -3,7 +3,7 @@ function CargarFichero()
 	loadDocA("peliculas.xml","xml") ;
 	stop;
 }
-setInterval(CargarFichero,3000);
+let intervalo = setInterval(CargarFichero,3000);
 
 function gestionarFicheroXML(xmlDoc){
 	let capaVacia = document.querySelector("#ficheroXML")
@@ -14,4 +14,4 @@ function gestionarFicheroXML(xmlDoc){
 			
 }
 
-
+clearInterval(intervalo);
