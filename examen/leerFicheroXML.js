@@ -1,6 +1,7 @@
 function CargarFichero()
 {
 	loadDocA("peliculas.xml","xml") ;
+	stop;
 }
 setInterval(CargarFichero,3000);
 
