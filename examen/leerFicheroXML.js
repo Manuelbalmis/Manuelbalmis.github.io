@@ -1,14 +1,9 @@
-let intervalo = setInterval(CargarFichero,3000);
 
 function CargarFichero()
 {
 	loadDocA("peliculas.xml","xml") ;
 }
 
-function Parar(){
-	clearInterval(intervalo)
-}
-Parar()
 
 
 function gestionarFicheroXML(xmlDoc){
