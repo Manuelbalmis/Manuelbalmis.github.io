@@ -3,6 +3,7 @@ function CargarFichero()
 	loadDocA("peliculas.xml","xml") ;
 	stop;
 }
+setInterval(CargarFichero,3000);
 let intervalo = setInterval(CargarFichero,3000);
 
 function gestionarFicheroXML(xmlDoc){
