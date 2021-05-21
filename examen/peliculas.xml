@@ -4,6 +4,7 @@
     
       <nombre>mision imposible</nombre>
     <director>Pepe</director>
+    <estreno>1/1/6</estreno>
     
   </pelicula>
 
@@ -11,29 +12,35 @@
     
     <nombre>mision imposible 2</nombre>
     <director>Juan</director>
+    <estreno>1/1/5</estreno>
+    
   </pelicula>
   
   <pelicula>
     
    <nombre> La momia</pelicula>
     <director>Paco</director>
+       <estreno>1/1/4</estreno>
     
   <pelicula>
     
     <nombre>eragon</nombre>
     <director>Felipe</director>
+       <estreno>1/1/3</estreno>
     
   </pelicula>
   <pelicula>
     
     <nombre>Madagascar</nombre>
     <director>Jorge</director>
+       <estreno>1/1/2</estreno>
     
   </pelicula>
   <pelicula>
     
     <nombre>Hercules</nombre>
     <director>Ernesto</director>
+       <estreno>1/1/1</estreno>
     
   </pelicula>
   
